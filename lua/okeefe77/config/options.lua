@@ -10,6 +10,10 @@ o.termguicolors = true
 o.number = true
 o.signcolumn = "yes"
 
+o.wrap = true
+o.breakindent = true
+o.showbreak = "| "
+
 o.hlsearch = false
 o.incsearch = true
 
